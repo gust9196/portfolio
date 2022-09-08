@@ -1,0 +1,26 @@
+h1 {
+    justify-content: center;
+    align-items center;
+    display:flex;
+}
+header {
+    display:flex;
+    justify-content: flex-end;
+}
+
+
+
+
+header a {
+    color: #000000;
+    text-decoration: none;
+}
+
+/*.hero-image {
+    background-image: url("https://images.pexels.com/photos/2563386/pexels-photo-2563386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 300px;
+
+    background-position: center;
+    position:relative;
+
+}
